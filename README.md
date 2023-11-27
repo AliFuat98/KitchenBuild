@@ -1,4 +1,4 @@
-# KitchenBuild
+# Kitchen Kaos
 
 I watched the lesson in the link while working on this project
 - https://www.youtube.com/watch?v=AmGSEH7QcDg&t=5s
